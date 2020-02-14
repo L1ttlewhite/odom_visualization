@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/alien/catkin_rs/devel/include",
+                "/home/alien/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/alien/catkin_rs/src/odom_visualization/include",
+                "/home/alien/catkin_rs/src/realsense-ros/realsense2_camera/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
